@@ -4,7 +4,7 @@
 
 # LUTFI CAYANG MAMA PAPA CELAMANYA 😘😍
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mugiwaraLuffy/SaitamaRobot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mugiwaLuffy/SaitamaRobot.git)
 
 <p align="center">
 - x -|│  “	Just some code who is a bot for fun. ”  │| - x -
