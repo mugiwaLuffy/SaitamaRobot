@@ -81,7 +81,7 @@ Gue bukan manusia tapi gue bisa sange, jangan ngirim pap tt kontol!!
 ━─━─━─━─━─━─━─━─━─━─━
 ▪**Managed with by:** [MASTER](https://t.me/yangtagtolol)
 •**Maintened with by : [WHO AM I](https://t.me/yangtagtolol)
-▪**GC SAMPAH:** [Blogku](https://t.me/gcsampah)
+▪**GC SAMPAH:** [GROUP](https://t.me/gcsampah)
 ━─━─━─━─━─━─━─━─━─━─━
 Tekan /help untuk melihat daftar fitur gue.
 """
