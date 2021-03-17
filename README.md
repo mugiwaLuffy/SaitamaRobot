@@ -4,7 +4,7 @@
 
 # UPI CAYANG KAMU CELAMANYA 😘😍
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mugiwaLuffy/SaitamaRobot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lutfifirmansyahh/SaitamaRobot.git)
 
 <p align="center">
 - x -|│  “	Just some code who is a bot for fun. ”  │| - x -
