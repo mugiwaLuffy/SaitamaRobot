@@ -73,22 +73,22 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hi {}, nama saya {}!
-Saya adalah seorang manusia Robot super. 
+Hai {} kontol, nama gue {}!
+Gue adalah seorang manusia Robot super, yang dibuat oleh ᴜᴘɪ, 
 Ada untuk membantai para parasit telegram.
-Dibuat khusus untuk membuat group anda tetap nyaman dan aman terkendali.
-Saya bukan manusia yang bisa puasin nafsumu, jangan salah gunakan!!
+Dibuat khusus untuk membuat group lu tetap nyaman dan aman terkendali.
+Gue bukan manusia tapi gue bisa sange, jangan ngirim pap tt kontol!!
 ━─━─━─━─━─━─━─━─━─━─━
-▪**Managed with by:** [Master](https://t.me/yangtagtolol)
-•**Maintened with by : [WHO AM I](https://t.me/Hyoneechan)
-▪**Blog Gabut:** [Blogku](http://pramukapitumpanua.blogspot.com/)
+▪**Managed with by:** [MASTER](https://t.me/yangtagtolol)
+•**Maintened with by : [WHO AM I](https://t.me/yangtagtolol)
+▪**GC SAMPAH:** [Blogku](https://t.me/gcsampah)
 ━─━─━─━─━─━─━─━─━─━─━
-Tekan /help untuk melihat daftar fitur saya.
+Tekan /help untuk melihat daftar fitur gue.
 """
 
 HELP_STRINGS = """
-Hai! Nama saya adalah *{}*.
-Saya adalah manusia robot dengan beberapa kelebihan yang menyenangkan! Silahkan lihat berikut ini untuk beberapa ide dari \
+Hai! Nama gue adalah *{}*.
+Gue adalah manusia robot dengan beberapa kelebihan yang menyenangkan! Silahkan lihat berikut ini untuk beberapa ide dari \
 hal-hal yang bisa saya bantu.
 *Perintah utama* yang tersedia:
  - /start: mulai bot
@@ -227,7 +227,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="☑️ Add Gua ke group",
+                                text="☑️ Add Gue ke group",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username
                                 ),
@@ -236,11 +236,11 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🔞 Group Chat",
-                                url=f"https://t.me/ParaRemajaAkhirZaman",
+                                url=f"https://t.me/gcsampah",
                             ),
                             InlineKeyboardButton(
-                                text="🔔 Updates Channel",
-                                url="https://t.me/channelkamukita",
+                                text="🔔 Group PARTNER",
+                                url="https://t.me/pemudapemuditersesatt",
                             ),
                         ],
                         [
@@ -251,7 +251,7 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🗄 Follow gua",
+                                text="🗄 Follow gue",
                                 url="https://www.instagram.com/lutfifirmansyahh/",
                             )
                         ],
